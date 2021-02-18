@@ -31,4 +31,4 @@ function recargar(){//Reinicia la pagina deteniendo el ciclo al pulsar Stop
     location.reload();
 }
 
-//Nuevo comentario de prueba
+//Comentario nuevo de prueba
