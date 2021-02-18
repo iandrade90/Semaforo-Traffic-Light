@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.container{
+    display: block;
+    text-align: center;
+}
+img{
+    width: 170px;
+    height: 150px;
+    display: block;
+    margin: auto;
+    opacity: 0.5;
+}
+#start{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: azure;
+}
+#stop{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: azure;
+}
+.hiddenbtn{
+    display: none;
+}
+.show_luzVerde{
+    display: block;
+    margin: auto;
+    opacity: 1;
+}
+.show_luzAmarilla{
+    display: block;
+    margin: auto;
+    opacity: 1;
+}
+.show_luzRoja{
+    display: block;
+    margin: auto;
+    opacity: 1;
+}
