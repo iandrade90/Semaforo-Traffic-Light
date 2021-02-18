@@ -30,3 +30,5 @@ function luzAmarillaRoja(){//Enciende luz amarilla y roja
 function recargar(){//Reinicia la pagina deteniendo el ciclo al pulsar Stop
     location.reload();
 }
+
+//Nuevo comentario de prueba
